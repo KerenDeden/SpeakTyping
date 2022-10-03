@@ -14,8 +14,8 @@ body {
 }
 
 .margin-radius {
-    margin-bottom: 2%;
-    border-radius: 8px;
+  margin-bottom: 2%;
+  border-radius: 8px;
 }
 
 .container {
@@ -66,7 +66,7 @@ body {
 
 .textarea-cont {
   box-sizing: border-box;
-  
+
   width: 100%;
   padding: 2% 0 0 2%;
   font-size: 18px;
@@ -89,7 +89,7 @@ body {
   background: url("http://tuckeralbin.com/wp-content/uploads/intense-cache/icons/plugin/font-awesome/angle-double-down.svg");
   background-color: rgb(255, 255, 255);
   background-repeat: no-repeat;
-  background-size: 5%;
+  background-size: 2%;
   background-position: 98% 50%;
 }
 .btn {
